@@ -7,11 +7,11 @@ The **Adeptus Mechanicus**, often abbreviated to the **Admech**, is a playable f
 ![Onager Dunecrawler](Oanger_dunecrawler.webp)
 An Onager Dunecrawler
 ![Belisarius Cawl](CawlSothaExpedition.webp)
-Belisarius Cawl
+Belisarius Cawl, having gaslit his way out of yet another heresy trial
 ---
 # Notable Links
 - [Official Rules](https://wahapedia.ru/wh40k10ed/factions/adeptus-mechanicus/)
 - [Store Page](http://warhammer.com/en-WW/shop/warhammer-40000/armies-of-the-imperium/adeptus-mechanicus?srsltid=AfmBOopCGCvAuuO-2et6ClpLwa1hqf0C7hkk_szOkDY8zUrsJhpARQyZ)
 - [Wiki](https://warhammer40k.fandom.com/wiki/Adeptus_Mechanicus)
 - [r/AdeptusMechanicus](https://www.reddit.com/r/AdeptusMechanicus/)
-- [Amdech Music](https://www.youtube.com/watch?v=ZLsX9WUdYnU&list=RDZLsX9WUdYnU&start_radio=1)
+- [Admech Music](https://www.youtube.com/watch?v=ZLsX9WUdYnU&list=RDZLsX9WUdYnU&start_radio=1)
