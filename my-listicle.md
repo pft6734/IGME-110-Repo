@@ -5,7 +5,7 @@ The **Adeptus Mechanicus**, often abbreviated to the **Admech**, is a playable f
 ---
 # Gallery
 ![Onager Dunecrawler](Oanger_dunecrawler.webp)
-An Onager Dunecrawler
+An Onager Dunecrawler (spider tank) supported by Skitarii (cyborg soldiers)
 ![Belisarius Cawl](CawlSothaExpedition.webp)
 Belisarius Cawl, having gaslit his way out of yet another heresy trial
 ---
