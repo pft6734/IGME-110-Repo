@@ -3,13 +3,13 @@
 ---
 The **Adeptus Mechanicus**, often abbreviated to the **Admech**, is a playable faction in the tabletop wargame and universe of Warhammer 40k. Based in the Forge World of Mars, this semi-independent organization provides the Imperium of Man with all the advanced technology required to run an galaxy-spanning empire. However, much like the rest of the Imperium, its tech-priest elites infight constantly, jealously guarding their discoveries, which they view as sacred wisdom of the Omnissiah, from their peers.
 ---
-# Gallery
+## Gallery
 ![Onager Dunecrawler](Oanger_dunecrawler.webp)
 An Onager Dunecrawler (spider tank) supported by Skitarii (cyborg soldiers)
 ![Belisarius Cawl](CawlSothaExpedition.webp)
 Belisarius Cawl, having gaslit his way out of yet another heresy trial
 ---
-# Notable Links
+## Notable Links
 - [Official Rules](https://wahapedia.ru/wh40k10ed/factions/adeptus-mechanicus/)
 - [Store Page](http://warhammer.com/en-WW/shop/warhammer-40000/armies-of-the-imperium/adeptus-mechanicus?srsltid=AfmBOopCGCvAuuO-2et6ClpLwa1hqf0C7hkk_szOkDY8zUrsJhpARQyZ)
 - [Wiki](https://warhammer40k.fandom.com/wiki/Adeptus_Mechanicus)
