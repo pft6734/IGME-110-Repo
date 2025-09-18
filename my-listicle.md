@@ -13,3 +13,5 @@ Belisarius Cawl
 - [Official Rules](https://wahapedia.ru/wh40k10ed/factions/adeptus-mechanicus/)
 - [Store Page](http://warhammer.com/en-WW/shop/warhammer-40000/armies-of-the-imperium/adeptus-mechanicus?srsltid=AfmBOopCGCvAuuO-2et6ClpLwa1hqf0C7hkk_szOkDY8zUrsJhpARQyZ)
 - [Wiki](https://warhammer40k.fandom.com/wiki/Adeptus_Mechanicus)
+- [r/AdeptusMechanicus](https://www.reddit.com/r/AdeptusMechanicus/)
+- [Amdech Music](https://www.youtube.com/watch?v=ZLsX9WUdYnU&list=RDZLsX9WUdYnU&start_radio=1)
