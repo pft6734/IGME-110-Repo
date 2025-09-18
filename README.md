@@ -12,5 +12,7 @@ Ordered List
 3. item 3
 
 https://www.rit.edu/
+
 [RIT Homepage](https://www.rit.edu/)
+
 ![RIT Logo](https://www.rit.edu/brandportal/sites/rit.edu.brandportal/files/2022-10/RIT-00071A_RGB_whiteTM.jpg)
